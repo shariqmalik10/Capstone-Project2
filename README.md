@@ -1,7 +1,9 @@
 # Portfolio Website
 
 This is a portfolio website created using just HTML and CSS.   
-For best experience, view the website in full screen 
+For best experience, view the website in full screen   
+
+<a href="https://shariqmalik10.github.io/Capstone-Project2/">Click here</a> to view the site
 
 ## Future work to be carried out on the site:
 - [ ] Adding functionality to the navbar
